@@ -1,0 +1,7 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  database: erez
+  pool: 5
+  username: erez
+  password: g4ssGbel

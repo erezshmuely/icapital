@@ -1,0 +1,74 @@
+// Place all the styles related to the zombies controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+
+body {
+  padding:0px;
+margin:0px;
+width:auto;
+height:auto;
+}
+
+
+#t1 {
+	
+	margin-top: 20;
+		margin-bottom: -20px;
+		
+	
+    background-position: 0px 0px;
+    color: rgb(197, 195, 195);
+    overflow-wrap: break-word;
+    text-align: center;
+    text-decoration: none solid rgb(197, 195, 195);
+    word-wrap: break-word;
+    background: rgba(0, 0, 0, 0) none repeat scroll 0px 0px / auto padding-box border-box;
+    border: 0px none rgb(197, 195, 195);
+    font: normal normal normal 36px/normal 'times new roman', times, serif;
+    outline: rgb(197, 195, 195) none 0px;
+}
+
+
+#t2 {
+	
+	
+    background-position: 0px 0px;
+    color: rgb(197, 195, 195);
+    overflow-wrap: break-word;
+    text-align: center;
+    text-decoration: none solid rgb(197, 195, 195);
+    word-wrap: break-word;
+    background: rgba(0, 0, 0, 0) none repeat scroll 0px 0px / auto padding-box border-box;
+    border: 0px none rgb(197, 195, 195);
+    font: normal normal normal 36px/normal 'times new roman', times, serif;
+    outline: rgb(197, 195, 195) none 0px;
+}
+
+
+div.topmenue {
+  	margin-top: -150px;
+  height:150px;
+  background-color:#2D2D2B;
+}
+
+
+#IMG_1 {
+margin-top: -134px;
+margin-left: 1150px;
+
+
+
+    background-position: 0px 0px;
+    box-shadow: rgb(0, 0, 0) 0px 0px 0px 0px;
+    cursor: default;
+    height: 134px;
+    width: 210px;
+    background: rgba(0, 0, 0, 0) none repeat scroll 0px 0px / auto padding-box border-box;
+    font: normal normal normal 10px/normal Arial, Helvetica, sans-serif;
+}/*#IMG_1*/
+
+
+body {
+height: auto; width: auto; position: absolute; top: 0; left: 0;
+}
